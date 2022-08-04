@@ -44,3 +44,5 @@ if "pk" in r.text:
         print("Wrong choice, idiot!")
 else:
     print("Error")
+
+#RID
